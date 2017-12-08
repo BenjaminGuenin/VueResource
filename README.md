@@ -1,0 +1,2 @@
+# VueResource
+VueResource test project
